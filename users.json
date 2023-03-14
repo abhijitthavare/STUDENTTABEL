@@ -1,0 +1,41 @@
+[
+    {
+        "studentname":"ABHIJIT",
+        "DOB":"06-02-1999",
+        "STD":"10th",
+        "DIV":"A",
+        "photo":"https://stylesatlife.com/wp-content/uploads/2021/03/Famous-Bollywood-Actor-Actor-Ajay-Devgan.jpg.webp"
+    },
+    
+    {
+        "studentname":"SHUBHAM",
+        "DOB":"08-05-1998",
+        "STD":"9th",
+        "DIV":"D",
+        "photo":"https://sm.mashable.com/t/mashable_in/photo/default/image-8_crtc.720.jpg"
+    },
+    
+    {
+        "studentname":"IRRAPA",
+        "DOB":"02-08-1999",
+        "STD":"7th",
+        "DIV":"B",
+        "photo":"https://i.pinimg.com/550x/11/d6/61/11d6613a0b7532be68da7ca90ceca467.jpg"
+    },
+    
+    {
+        "studentname":"RAVI",
+        "DOB":"08-02-1993",
+        "STD":"12th",
+        "DIV":"A",
+        "photo":"https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/08/shah-rukh-khan-income-1533206912.jpg"
+    },
+    
+    {
+        "studentname":"KOHLI",
+        "DOB":"05-05-1995",
+        "STD":"9th",
+        "DIV":"A",
+        "photo":"https://assets.vogue.in/photos/5dabca55c15ce800083be622/2:3/w_2560%2Cc_limit/Prabhas.jpg"
+    }
+]
